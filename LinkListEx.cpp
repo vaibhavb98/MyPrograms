@@ -179,7 +179,7 @@ void menu() {
             "3-->Get size of list.\n" <<
             "4-->Delete nth element from List.\n" <<
             "0-->Exit program.\n" <<
-            "Submit your choice (0 - 3) : ";
+            "Submit your choice (0 - 4) : ";
 
     int choice;
 
