@@ -3,7 +3,6 @@
 #define MAX 20
 
 using std::cout;
-using std::cin;
 using std::endl;
 
 struct Stack{
