@@ -2,7 +2,6 @@
 #include<stdlib.h>
 
 using std::cout;
-using std::cin;
 using std::endl;
 
 void quickSort(int list[] , int left , int right ){
